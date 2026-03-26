@@ -20,9 +20,3 @@ The core logic is handled by the `Airplane` class, which safely connects passeng
 
 ### Prerequisites
 You will need a C++ compiler installed on your system (such as `g++`).
-
-### Compilation & Execution
-To compile and run the program from your terminal, use the following commands:
-
-`g++ main.cpp -o airline`
-`./airline`
